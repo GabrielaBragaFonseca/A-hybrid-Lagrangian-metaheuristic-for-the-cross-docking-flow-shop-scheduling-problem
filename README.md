@@ -1,5 +1,5 @@
-# A-hybrid-Lagrangian-metaheuristic-for-the-cross-docking-flow-shop-scheduling-problem
-___________________________________________________________________________________________________________________________________
+# A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem
+_________________________________________________________________________________________________________________________________
 ##Gabriela B. Fonseca, Thiago H. Nogueira and Martín G. Ravetti
 
 For information regarding the dataset download, algorithm and codes please read the "readme.txt" file.
