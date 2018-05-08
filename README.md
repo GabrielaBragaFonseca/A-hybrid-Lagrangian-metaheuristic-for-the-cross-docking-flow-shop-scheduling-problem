@@ -1,6 +1,6 @@
 # A hybrid Lagrangian metaheuristic for the cross-docking flow-shop scheduling problem
 _________________________________________________________________________________________________________________________________
-##Gabriela B. Fonseca, Thiago H. Nogueira and Martín G. Ravetti
+Gabriela B. Fonseca, Thiago H. Nogueira and Martín G. Ravetti
 
 For information regarding the dataset download, algorithm and codes please read the "readme.txt" file.
 
@@ -23,12 +23,19 @@ processing times of the jobs on machine 2 and the matrix of precedence, that con
 Example: n5m3mp4_p1-10_1.txt
 
 5
+
 3
+
 7 4 7 2 10 
+
 4 10 3 
+
 3 2 3 4 
+
 2 0 1 
+
 1 1 
+
 
 
 The first line correspond to the number of jobs on machine 1 (n=5);
