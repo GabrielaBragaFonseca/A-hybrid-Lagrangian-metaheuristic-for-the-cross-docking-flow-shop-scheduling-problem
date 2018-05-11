@@ -8,7 +8,7 @@ In this repository, you will find the codes and instances used in the article:
 
 The algorithm is written in C++. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
 
-download algorithm: [main.cpp](http://www.COLOCA_AQUI_O_LINK.com) 
+download algorithm: [main.cpp](https://drive.google.com/file/d/1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD/view?usp=sharing) 
 
 ### Instances for the 2-dock version:
 
