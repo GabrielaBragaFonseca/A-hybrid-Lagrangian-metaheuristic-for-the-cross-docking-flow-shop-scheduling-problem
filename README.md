@@ -40,7 +40,7 @@ It is important to note that we consider jobs varying from 0.
 
 ### Group of instances:
 
-The instances used in this work are generated through the software MATLAB,
+The instances used in this work are divided into two groups. In each group of instances, n is fixed and the number m is randomly chosen from the range of [0.6n, 0.8n, 1.0n, 1.2n, 1.4n]. For each n, five instances with different m values are considered. And for each pair (n, m), we generate 10 different problems, therefore the benchmark consists of 500 instances. All instances are available below:
 
 |Group| Files |
 |:-------------:|:-------------:|
