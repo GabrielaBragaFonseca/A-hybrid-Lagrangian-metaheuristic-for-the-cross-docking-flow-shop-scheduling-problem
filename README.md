@@ -8,7 +8,7 @@ In this repository, you will find the codes and instances used in the article:
 
 The algorithm is written in C++. The program reads the number of jobs (n and m), two vectors composed by the processing times (machine 1 and machine two, respectively) and one matrix of precedence.
 
-download algorithm: [main.cpp](https://drive.google.com/file/d/1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD/view?usp=sharing) 
+Download algorithm: [main.cpp](https://drive.google.com/file/d/1PcuGQ_M4ibWwXnQw-qFj9XyClj-0iaxD/view?usp=sharing) 
 
 ### Instances for the 2-dock version:
 
@@ -37,3 +37,15 @@ For example: The first line on the matrix correspond to the first job on machine
 The same reasoning happens for other jobs on machine 2, for example,  the second line on the matrix correspond to the second job on machine 2. Note that the second job on machine 2 has two jobs on machine 1  as precedent (first element of the matrix). These jobs are job 0 and job 1 on machine 1. And so on for all m jobs.
 
 It is important to note that we consider jobs varying from 0.
+
+### Group of instances:
+
+The instances used in this work are generated through the software MATLAB,
+
+|Group| Jobs M1(n)| Jobs M2(m) | Files
+|:-------------:|:-------------:| -----:|
+| 1 | 5|4 | [n5m3mp4_p1-10_1.txt](https://drive.google.com/open?id=15XWvWe4JYu8wDSuSJc8JCW8hmfTu3ui6) |
+
+
+
+
