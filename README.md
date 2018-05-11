@@ -38,7 +38,7 @@ The same reasoning happens for other jobs on machine 2, for example,  the second
 
 It is important to note that we consider jobs varying from 0.
 
-### Group of instances:
+#### Group of instances:
 
 The instances used in this work are divided into two groups. In each group of instances, n is fixed and the number m is randomly chosen from the range of [0.6n, 0.8n, 1.0n, 1.2n, 1.4n]. For each n, five instances with different m values are considered. And for each pair (n, m), we generate 10 different problems, therefore the benchmark consists of 500 instances. All instances are available below:
 
@@ -47,6 +47,21 @@ The instances used in this work are divided into two groups. In each group of in
 | 1 | [Grupo 1](https://drive.google.com/open?id=16QYVuQ6mG4ah-vHlVlF50OVgccPqZ7R6) |
 | 2 | [Grupo 2](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
 
+### Instances for the multi-dock version:
+
+We generate artificial instances varying the number of jobs and machines, we consider values of n1 equal to 20, 30, 40, 50, 60, 70 and 80, and values of n2 equal to integers in [0.8n1, 1.2n1]. We examine five groups of instances. The first three groups consider the same number of machines in each stage, 2, 4, and 10. The last two groups of instances use a random number of machines in each stage, selected from a uniform distribution U(2,4) and U(2,10), respectively. Processing times were generated with a uniform distribution U(10, 100). We generate 300 instances for each combination of number of jobs and number of machines, resulting in a total of 10.500 instances.
+
+|Group| Files |
+|:-------------:|:-------------:|
+| 1 | [2 machines](https://drive.google.com/open?id=16QYVuQ6mG4ah-vHlVlF50OVgccPqZ7R6) |
+| 2 | [4 machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
+| 3 | [10 machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
+| 4 | [U(2,4) machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
+| 5 | [ U(2,10) machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
 
 
+Contact information
 
+Gabriela Braga Fonseca - gabrielabragafonseca@gmail.com
+Martín Gómez Ravetti - martin.ravetti@dep.ufmg.br
+Thiago Henrique Nogueira - thiagoh.nogueira@ufv.br
