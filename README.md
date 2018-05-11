@@ -49,15 +49,15 @@ The instances used in this work are divided into two groups. In each group of in
 
 ### Instances for the multi-dock version:
 
-We generate artificial instances varying the number of jobs and machines, we consider values of n1 equal to 20, 30, 40, 50, 60, 70 and 80, and values of n2 equal to integers in [0.8n1, 1.2n1]. We examine five groups of instances. The first three groups consider the same number of machines in each stage, 2, 4, and 10. The last two groups of instances use a random number of machines in each stage, selected from a uniform distribution U(2,4) and U(2,10), respectively. Processing times were generated with a uniform distribution U(10, 100). We generate 300 instances for each combination of number of jobs and number of machines, resulting in a total of 10.500 instances.
+Artificial instances were generated varying the number of jobs and machines. We consider values of n1 equal to 20, 30, 40, 50, 60, 70 and 80 jobs, and values of n2 equal to integers in [0.8n1, 1.2n1]. Five groups of instances were examined. The first three groups consider the same number of machines in each stage: 2, 4, and 10. The last two groups of instances use a random number of machines in each stage, selected from a uniform distribution U(2,4) and U(2,10), respectively. Processing times were generated with a uniform distribution U(10, 100). We generated 300 instances for each combination of number of jobs and number of machines, resulting in a total of 10.500 instances. All instances are available below:
 
 |Group| Files |
 |:-------------:|:-------------:|
-| 1 | [2 machines](https://drive.google.com/open?id=16QYVuQ6mG4ah-vHlVlF50OVgccPqZ7R6) |
-| 2 | [4 machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
-| 3 | [10 machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
-| 4 | [U(2,4) machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
-| 5 | [ U(2,10) machines](https://drive.google.com/open?id=1EUnx33BeLzZSotX5A2Hf_Amed1hPBlY6) |
+| 1 | [2 machines](https://drive.google.com/open?id=1aRxy5rSmWWx4xVreV26FrJw26EMzNMxg) |
+| 2 | [4 machines](https://drive.google.com/open?id=1l8pteh9JCHMBPDClyclHwAAcrWBpRqKD) |
+| 3 | [10 machines](https://drive.google.com/open?id=1V8j__8XVVr0fFwPDp7DLfdv703mEEKp2) |
+| 4 | [U(2,4) machines](https://drive.google.com/open?id=1tZ4HQR4nxlKmQ1AM3NIv8EKsbm_9MD8X) |
+| 5 | [ U(2,10) machines](https://drive.google.com/open?id=1kOJEsbhkr9L51OBkzt3OnNJaAzZwYYwo) |
 
 
 Contact information
