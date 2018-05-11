@@ -42,8 +42,8 @@ It is important to note that we consider jobs varying from 0.
 
 The instances used in this work are generated through the software MATLAB,
 
-|Group| Jobs M1(n)| Jobs M2(m) | Files
-|:-------------:|:-------------:| -----:|
+|Group| Jobs M1(n)| Jobs M2(m) | Files |
+|:-------------:|:-------------:|:-------------:|:-------------:|
 | 1 | 5|4 | [n5m3mp4_p1-10_1.txt](https://drive.google.com/open?id=15XWvWe4JYu8wDSuSJc8JCW8hmfTu3ui6) |
 
 
